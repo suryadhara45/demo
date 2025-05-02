@@ -1,4 +1,4 @@
 # demo
 this is my first git repository.
 <br>
-Auther - surya dhara
+Auther - surya k dhara
